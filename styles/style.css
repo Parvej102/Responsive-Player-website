@@ -1,0 +1,46 @@
+
+body{
+    background-color: #F3F1FF;
+}
+main{
+width: 870px;
+margin: 0 auto;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.all-player{
+    padding-left: 10px;
+}
+.player{
+    padding: 15px;
+}
+.sec1{
+    margin-top: 20px;
+    padding: 15px;
+    border-bottom:1px solid #D1D1D1;
+}
+.h3{
+    padding: 10px;
+     color:#562EFF;
+}
+.sec2 img{
+width: 177px;
+}
+.blogs-area{
+  padding:10px 30px;
+}
+.text-area{
+    padding-left: 20px;
+}
+span{
+    color: #562EFF;
+}
+.sec3{
+    width: 870px;
+    height: 362px;
+    margin-top: 20px;
+}
